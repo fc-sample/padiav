@@ -11,4 +11,8 @@
   "profile": {
     "name": "typicode"
   }
+  "hazhir": {
+	"hello": { "id":12, "nothing": "is official"},
+	"chera": { "test": "hazhir" }
+  }
 }
